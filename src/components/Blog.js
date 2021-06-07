@@ -23,6 +23,7 @@ function Blog() {
       return (
         <div>
           {sidebar}
+          <h1>Hello blog</h1>
           <hr />
           {content}
         </div>
