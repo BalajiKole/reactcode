@@ -1,0 +1,15 @@
+.DottedBox {
+    margin: 40px;
+    border: 5px dotted red;
+  }
+  
+  .DottedBox_content {
+    font-size: 15px;
+    text-align: center;
+  }
+  .Primary{
+    color:rgb(176, 24, 247)
+  }
+  .font-xl{
+    font-size: 60px;
+  }
